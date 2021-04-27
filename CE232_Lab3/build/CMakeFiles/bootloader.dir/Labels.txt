@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/CE232_Lab3/CE232_Lab3/build/CMakeFiles/bootloader
+D:/CE232_Lab3/CE232_Lab3/build/CMakeFiles/bootloader.rule
+D:/CE232_Lab3/CE232_Lab3/build/CMakeFiles/bootloader-complete.rule
+D:/CE232_Lab3/CE232_Lab3/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/CE232_Lab3/CE232_Lab3/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/CE232_Lab3/CE232_Lab3/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/CE232_Lab3/CE232_Lab3/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/CE232_Lab3/CE232_Lab3/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/CE232_Lab3/CE232_Lab3/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/CE232_Lab3/CE232_Lab3/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "esp_system.h": "c"
+        },
+        "idf.flashType": "JTAG",
+        "idf.portWin": "COM3"
+    }
+}
